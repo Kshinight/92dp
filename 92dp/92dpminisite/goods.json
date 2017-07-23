@@ -1,0 +1,17 @@
+{
+    "goods": [
+        { "name": "德芙", "img": "http://img4.bbs.szhome.com/UploadFiles/Images/2009/07/29/0729224115480.jpg","cont":"非常好，很实惠，很不错1非常好，很实惠，很不错9","nickname":"小张", "nickimg": "http://tx.haiqq.com/uploads/allimg/150319/1612522R8-4.jpg","zannum":"20"},
+        { "name": "大米", "img": "http://pic2.ooopic.com/13/49/44/25b1OOOPIC4d.jpg","cont":"非常好，很实惠，很不错3非常好，很实惠，很不错9","nickname":"小张", "nickimg": "http://tx.haiqq.com/uploads/allimg/150319/1612522R8-4.jpg","zannum":"40"},
+        { "name": "安慕希", "img": "http://www.iyunshu.com/supp/upload/day_151204/201512042005468369.JPG","cont":"非常好，很实惠，很不错4非常好，很实惠，很不错9","nickname":"小张", "nickimg": "http://tx.haiqq.com/uploads/allimg/150319/1612522R8-4.jpg","zannum":"50"},
+        { "name": "金典", "img": "http://img2.imgtn.bdimg.com/it/u=1335620010,3960730038&fm=26&gp=0.jpg","cont":"非常好，很实惠，很不错5非常好，很实惠，很不错9","nickname":"小张", "nickimg": "http://tx.haiqq.com/uploads/allimg/150319/1612522R8-4.jpg","zannum":"60"},
+        { "name": "味可滋", "img": "http://rj1.douguo.net/upload/diet/b/5/6/b5d033d7a0c83847d0bc8df47f08a4b6.jpg" ,"cont":"非常好，很实惠，很不错6非常好，很实惠，很不错9","nickname":"小张", "nickimg": "http://tx.haiqq.com/uploads/allimg/150319/1612522R8-4.jpg","zannum":"70"},
+        { "name": "泸州老窖", "img": "http://img3.imgtn.bdimg.com/it/u=4127255975,3580264892&fm=26&gp=0.jpg","cont":"非常好，很实惠，很不错7非常好，很实惠，很不错9","nickname":"小张", "nickimg": "http://tx.haiqq.com/uploads/allimg/150319/1612522R8-4.jpg","zannum":"80"},
+        { "name": "剑南春", "img": "http://img2.21food.cn/img/album/2014/1/21/jncpwx2208053.jpg","cont":"非常好，很实惠，很不错8非常好，很实惠，很不错9","nickname":"小张", "nickimg": "http://tx.haiqq.com/uploads/allimg/150319/1612522R8-4.jpg","zannum":"90"},
+        { "name": "蓝莓", "img": "http://imgsrc.baidu.com/image/c0%3Dshijue1%2C0%2C0%2C294%2C40/sign=4dd6b8cef8d3572c72ef949fe27a0952/10dfa9ec8a13632725d72d149b8fa0ec08fac7db.jpg" ,"cont":"非常好，很实惠，很不错9非常好，很实惠，很不错9","nickname":"小张","nickimg": "http://tx.haiqq.com/uploads/allimg/150319/1612522R8-4.jpg","zannum":"100"},
+        { "name": "芒果", "img": "http://sh.sinaimg.cn/2013/0618/U6829P18DT20130618111659.jpg","cont":"非常好，很实惠，很不错10非常好，很实惠，很不错9","nickname":"小张","nickimg": "http://tx.haiqq.com/uploads/allimg/150319/1612522R8-4.jpg","zannum":"110"}
+    ],
+
+     "xiangqing": [
+     {"nickimg":"http://img0.imgtn.bdimg.com/it/u=4128355576,3453965016&fm=26&gp=0.jpg","nickname":"张三","contenttitle":"Swisse蛋白粉","videodata":"#","cuscontent":"这个产品很不错值得推荐这个产品很不错值得推荐这个产品很不错值得推荐这个产品很不错值得推荐这个产品很不错值得推荐","contenttime":"2017年7月21日","shoucangnum":"10","zannum":"20","pinglunnickimg":"http://img0.imgtn.bdimg.com/it/u=2206167463,3805924269&fm=26&gp=0.jpg","pinglunnickname":"李四","pingluntime":"2017年7月20日","pingluncont":"写得很不错，谢谢分享","pinglunzannum":"60","pinglunnum":"500"}
+     ]
+}
